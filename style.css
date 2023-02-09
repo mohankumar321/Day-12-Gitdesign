@@ -1,0 +1,111 @@
+
+body{
+    background: scroll;
+
+}
+.head{
+    font-size: larger;
+    line-height: 15vh;
+    font-weight: 100px;
+    font-family: sans-serif;
+    letter-spacing: 3px;
+    text-align: center;
+    color: aliceblue;
+    padding: 5px;
+    height: 13vh ;
+    background-color: rgb(50, 57, 57);
+}
+
+.fa{
+float: left;
+margin-top: 5vh;
+margin-left: 25px; 
+}
+
+.page{
+   
+    
+    background-color: rgb(175, 189, 180);
+}
+
+.box-1{
+    border: 1px solid rgb(50, 57, 57);
+    display: grid;
+    height: 65vh;
+    width: 40vh;
+    margin-top: 16vh;
+    margin-left:16vh;
+    border-radius: 20px;
+    background-color:rgb(50, 57, 57);
+}
+.box-2{
+    
+    display: grid;
+    margin-top: 1vh;
+    margin-left:90vh;
+    border-radius: 20px;
+    background-color:rgb(50, 57, 57);
+}
+.conatiner{
+    display: grid;
+    grid-template-columns: repeat(1rem, 1fr);
+}
+
+.box{
+    margin-left: 60vh;
+    height:5vh;
+    width: 100vh;
+    border: 1px solid rgb(50, 57, 57);;
+    border-radius: 10px;
+    background-color: rgb(50, 57, 57);
+
+
+}
+
+input::placeholder {
+    font: 20px/3 sans-serif;
+    color: white;
+    
+}
+
+.box-a{
+
+    margin-left: 60vh;
+    height:20vh;
+    width: 25vh;
+    border: 1px solid rgb(50, 57, 57);;
+    border-radius: 10px;
+    background-color: rgb(50, 57, 57);
+
+}
+.box-b{
+
+    margin-left:38vh;
+    height:20vh;
+    width: 25vh;
+    border: 1px solid rgb(50, 57, 57);;
+    border-radius: 10px;
+    background-color: rgb(50, 57, 57);
+
+}
+.box-c{
+
+    margin-left:38vh;
+    height:20vh;
+    width: 25vh;
+    border: 1px solid rgb(50, 57, 57);;
+    border-radius: 10px;
+    background-color: rgb(50, 57, 57);
+
+}
+.box-d{
+margin-left:62vh;
+margin-top: 10vh;
+
+    height: 18vh;
+    width: 100vh;
+    border: 1px solid rgb(50, 57, 57);;
+    border-radius: 10px;
+    background-color: rgb(50, 57, 57);
+
+}
